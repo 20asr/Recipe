@@ -22,3 +22,5 @@ Last line changed locally
 - rest
 - *grill*
 - cool
+
+![Seared Chicken is the best!](/DataSciUBC2/Recipe/Seared-Chicken.jpg)
