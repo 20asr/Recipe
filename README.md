@@ -15,3 +15,5 @@ is a **simple** recipe for making pan seared **chicken which has been marinated*
 - *marinate*
 - **cook**
 - rest
+
+![Seared CHicken is the best!](/DataSciUBC2/Recipe/Seared-Chicken.jpg)
